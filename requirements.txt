@@ -1,0 +1,8 @@
+pystac-client
+planetary-computer
+requests
+pyyaml
+rasterio
+matplotlib
+seaborn
+opencv-python-headless

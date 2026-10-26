@@ -1,0 +1,9 @@
+project:
+  name: "Mining_Satellite_Monitoring"
+  target: "Coc_Sau_Coal_Mine"
+
+satellite:
+  collection: "sentinel-2-l2a"
+  bbox: [107.23, 20.99, 107.36, 21.07]
+  max_cloud_cover: 5
+  date_range: "2024-01-01/2024-03-31"
